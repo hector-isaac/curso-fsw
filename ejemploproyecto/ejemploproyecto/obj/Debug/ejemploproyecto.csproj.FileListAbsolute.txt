@@ -1,0 +1,8 @@
+C:\Users\SITE\repos\curso-fsw\ejemploproyecto\ejemploproyecto\bin\Debug\ejemploproyecto.exe.config
+C:\Users\SITE\repos\curso-fsw\ejemploproyecto\ejemploproyecto\bin\Debug\ejemploproyecto.exe
+C:\Users\SITE\repos\curso-fsw\ejemploproyecto\ejemploproyecto\bin\Debug\ejemploproyecto.pdb
+C:\Users\SITE\repos\curso-fsw\ejemploproyecto\ejemploproyecto\obj\Debug\ejemploproyecto.csprojResolveAssemblyReference.cache
+C:\Users\SITE\repos\curso-fsw\ejemploproyecto\ejemploproyecto\obj\Debug\ejemploproyecto.Properties.Resources.resources
+C:\Users\SITE\repos\curso-fsw\ejemploproyecto\ejemploproyecto\obj\Debug\ejemploproyecto.csproj.GenerateResource.Cache
+C:\Users\SITE\repos\curso-fsw\ejemploproyecto\ejemploproyecto\obj\Debug\ejemploproyecto.exe
+C:\Users\SITE\repos\curso-fsw\ejemploproyecto\ejemploproyecto\obj\Debug\ejemploproyecto.pdb
